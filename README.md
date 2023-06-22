@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwas-bat
 - 👀 I’m interested in Python,Java and Cybersecurity
-- 🌱 I’m currently learning in 3rd sem CSE
+- 🌱 I’m currently learning in 6th sem CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail me on vishwasguruvadeyar71@gmail.com
 
